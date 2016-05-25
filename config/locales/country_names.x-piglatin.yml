@@ -1,0 +1,251 @@
+x-piglatin:
+  country_names:
+    Afghanistan: Afghanistan-way
+    Albania: Albania-way
+    Algeria: Algeria-way
+    Andorra: Andorra-way
+    Angola: Angola-way
+    Anguilla: Anguilla-way
+    Antarctica: Antarctica-way
+    Antigua & Barbuda: Antigua-way & Arbuda-bay
+    Argentina: Argentina-way
+    Armenia: Armenia-way
+    Aruba: Aruba-way
+    Australia: Australia-way
+    Austria: Austria-way
+    Azerbaijan: Azerbaijan-way
+    Bahamas: Ahamas-bay
+    Bahrain: Ahrain-bay
+    Bangladesh: Angladesh-bay
+    Barbados: Arbados-bay
+    Belarus: Elarus-bay
+    Belgium: Elgium-bay
+    Belize: Elize-bay
+    Benin: Enin-bay
+    Bermuda: Ermuda-bay
+    Bhutan: Utan-bhay
+    Bolivia: Olivia-bay
+    Bosnia & Herzegovina: Osnia-bay & Erzegovina-hay
+    Botswana: Otswana-bay
+    Bouvet Island: Ouvet-bay Island-way
+    Brazil: Azil-bray
+    Britain (UK): Itain-bray (UK)
+    British Indian Ocean Territory: Itish-bray Indian-way Ocean-way Erritory-tay
+    Brunei: Unei-bray
+    Bulgaria: Ulgaria-bay
+    Burkina Faso: Urkina-bay Aso-fay
+    Burundi: urundi-Bay
+    Cambodia: ambodia-Cay
+    Cameroon: ameroon-Cay
+    Canada: anada-Cay
+    Cape Verde: ape-Cay erde-Vay
+    Caribbean Netherlands: aribbean-Cay etherlands-Nay
+    Cayman Islands: ayman-Cay Islands-way
+    Central African Rep.: entral-Cay African-way ep-Ray.
+    Chad: ad-Chay
+    Chile: ile-Chay
+    China: ina-Chay
+    Christmas Island: istmas-Chray Island-way
+    Cocos (Keeling) Islands: ocos-Cay (Keeling) Islands-way
+    Colombia: olombia-Cay
+    Comoros: omoros-Cay
+    Congo (Dem. Rep.): ongo-Cay (Dem. Rep.)
+    Congo (Rep.): ongo-Cay (Rep.)
+    Cook Islands: ook-Cay Islands-way
+    Costa Rica: osta-Cay ica-Ray
+    Croatia: oatia-Cray
+    Cuba: uba-Cay
+    Curacao: uracao-Cay
+    Cyprus: yprus-Cay
+    Czech Republic: ech-Czay epublic-Ray
+    Côte d'Ivoire: Ôte-cay d'Ivoire-way
+    Denmark: enmark-Day
+    Djibouti: ibouti-Djay
+    Dominica: ominica-Day
+    Dominican Republic: ominican-Day epublic-Ray
+    East Timor: East-way imor-Tay
+    Ecuador: Ecuador-way
+    Egypt: Egypt-way
+    El Salvador: El-way Alvador-say
+    Equatorial Guinea: Equatorial-way Uinea-way
+    Eritrea: Eritrea-way
+    Estonia: Estonia-way
+    Ethiopia: Ethiopia-way
+    Falkland Islands: alkland-Fay Islands-way
+    Faroe Islands: aroe-Fay Islands-way
+    Fiji: iji-Fay
+    Finland: inland-Fay
+    France: ance-Fray
+    French Guiana: ench-Fray uiana-Gay
+    French Polynesia: ench-Fray olynesia-Pay
+    French Southern & Antarctic Lands: ench-Fray outhern-Say & Antarctic-way ands-Lay
+    Gabon: abon-Gay
+    Gambia: ambia-Gay
+    Georgia: eorgia-Gay
+    Germany: ermany-Gay
+    Ghana: ana-Ghay
+    Gibraltar: ibraltar-Gay
+    Greece: eece-Gray
+    Greenland: eenland-Gray
+    Grenada: enada-Gray
+    Guadeloupe: uadeloupe-Gay
+    Guam: uam-Gay
+    Guatemala: uatemala-Gay
+    Guernsey: uernsey-Gay
+    Guinea: uinea-Gay
+    Guinea-Bissau: Guinea-Bissau
+    Guyana: uyana-Gay
+    Haiti: aiti-Hay
+    Heard Island & McDonald Islands: eard-Hay Island-way & onald-McDay Islands-way
+    Honduras: onduras-Hay
+    Hong Kong: ong-Hay ong-Kay
+    Hungary: ungary-Hay
+    Iceland: Iceland-way
+    India: India-way
+    Indonesia: Indonesia-way
+    Iran: Iran-way
+    Iraq: Iraq-way
+    Ireland: Ireland-way
+    Isle of Man:
+    Israel: Israel-way
+    Italy: Italy-way
+    Jamaica: amaica-Jay
+    Japan: apan-Jay
+    Jersey: ersey-Jay
+    Jordan: ordan-Jay
+    Kazakhstan: azakhstan-Kay
+    Kenya: enya-Kay
+    Kiribati: iribati-Kay
+    Korea (North): orea-Kay (North)
+    Korea (South): orea-Kay (South)
+    Kuwait: uwait-Kay
+    Kyrgyzstan: yrgyzstan-Kay
+    Laos: aos-Lay
+    Latvia: atvia-Lay
+    Lebanon: ebanon-Lay
+    Lesotho: esotho-Lay
+    Liberia: iberia-Lay
+    Libya: ibya-Lay
+    Liechtenstein: iechtenstein-Lay
+    Lithuania: ithuania-Lay
+    Luxembourg: uxembourg-Lay
+    Macau: acau-May
+    Macedonia: acedonia-May
+    Madagascar: adagascar-May
+    Malawi: alawi-May
+    Malaysia: alaysia-May
+    Maldives: aldives-May
+    Mali: ali-May
+    Malta: alta-May
+    Marshall Islands: arshall-May Islands-way
+    Martinique: artinique-May
+    Mauritania: auritania-May
+    Mauritius: auritius-May
+    Mayotte: ayotte-May
+    Mexico: exico-May
+    Micronesia: icronesia-May
+    Moldova: oldova-May
+    Monaco: onaco-May
+    Mongolia: ongolia-May
+    Montenegro: ontenegro-May
+    Montserrat: ontserrat-May
+    Morocco: orocco-May
+    Mozambique: ozambique-May
+    Myanmar (Burma): yanmar-May (Burma)
+    Namibia: amibia-Nay
+    Nauru: auru-Nay
+    Nepal: epal-Nay
+    Netherlands: etherlands-Nay
+    New Caledonia: ew-Nay aledonia-Cay
+    New Zealand: ew-Nay ealand-Zay
+    Nicaragua: icaragua-Nay
+    Niger: iger-Nay
+    Nigeria: igeria-Nay
+    Niue: iue-Nay
+    Norfolk Island: orfolk-Nay Island-way
+    Northern Mariana Islands: orthern-Nay ariana-May Islands-way
+    Norway: orway-Nay
+    Oman: Oman-way
+    Pakistan: akistan-Pay
+    Palau: alau-Pay
+    Palestine: alestine-Pay
+    Panama: anama-Pay
+    Papua New Guinea: apua-Pay ew-Nay uinea-Gay
+    Paraguay: araguay-Pay
+    Peru: eru-Pay
+    Philippines: ilippines-Phay
+    Pitcairn: itcairn-Pay
+    Poland: oland-Pay
+    Portugal: ortugal-Pay
+    Puerto Rico: uerto-Pay ico-Ray
+    Qatar: Qatar
+    Romania: omania-Ray
+    Russia: ussia-Ray
+    Rwanda: anda-Rway
+    Réunion: Réunion
+    Samoa (American): amoa-Say (American)
+    Samoa (western): amoa-Say (western)
+    San Marino: an-Say arino-May
+    Sao Tome & Principe: ao-Say ome-Tay & incipe-Pray
+    Saudi Arabia: audi-Say Arabia-way
+    Senegal: enegal-Say
+    Serbia: erbia-Say
+    Seychelles: eychelles-Say
+    Sierra Leone: ierra-Say eone-Lay
+    Singapore: ingapore-Say
+    Slovakia: ovakia-Slay
+    Slovenia: ovenia-Slay
+    Solomon Islands: olomon-Say Islands-way
+    Somalia: omalia-Say
+    South Africa: outh-Say Africa-way
+    South Georgia & the South Sandwich Islands: outh-Say eorgia-Gay & e-thay outh-Say andwich-Say Islands-way
+    South Sudan: outh-Say udan-Say
+    Spain: ain-Spay
+    Sri Lanka: i-Sray anka-Lay
+    St Barthelemy: Aint-say arthelemy-Bay
+    St Helena: Aint-say elena-Hay
+    St Kitts & Nevis: Aint-say itts-Kay & evis-Nay
+    St Lucia: Aint-say ucia-Lay
+    St Maarten (Dutch part): Aint-say aarten-May (Dutch part)
+    St Martin (French part): Aint-say artin-May (French part)
+    St Pierre & Miquelon: Aint-say ierre-Pay & iquelon-May
+    St Vincent: Aint-say incent-Vay
+    Sudan: udan-Say
+    Suriname: uriname-Say
+    Svalbard & Jan Mayen: albard-Svay & an-Jay ayen-May
+    Swaziland: aziland-Sway
+    Sweden: eden-Sway
+    Switzerland: itzerland-Sway
+    Syria: yria-Say
+    Taiwan: aiwan-Tay
+    Tajikistan: ajikistan-Tay
+    Tanzania: anzania-Tay
+    Thailand: ailand-Thay
+    Togo: ogo-Tay
+    Tokelau: okelau-Tay
+    Tonga: onga-Tay
+    Trinidad & Tobago: inidad-Tray & obago-Tay
+    Tunisia: unisia-Tay
+    Turkey: urkey-Tay
+    Turkmenistan: urkmenistan-Tay
+    Turks & Caicos Is: urks-Tay & aicos-Cay Is-way
+    Tuvalu: uvalu-Tay
+    US minor outlying islands: US-way inor-may outlying-way islands-way
+    Uganda: Uganda-way
+    Ukraine: Ukraine-way
+    United Arab Emirates: United-way Arab-way Emirates-way
+    United States: United-way Ates-stay
+    Uruguay: Uruguay-way
+    Uzbekistan: Uzbekistan-way
+    Vanuatu: anuatu-Vay
+    Vatican City: atican-Vay ity-Cay
+    Venezuela: enezuela-Vay
+    Vietnam: ietnam-Vay
+    Virgin Islands (UK): irgin-Vay Islands-way (UK)
+    Virgin Islands (US): irgin-Vay Islands-way (US)
+    Wallis & Futuna: allis-Way & utuna-Fay
+    Western Sahara: estern-Way ahara-Say
+    Yemen: emen-Yay
+    Zambia: ambia-Zay
+    Zimbabwe: imbabwe-Zay
+    Åland Islands: Åland-way Islands-way
