@@ -1,4 +1,4 @@
-# Tzinfo::I18n
+# Tzinfo::I18n [![Build Status](https://travis-ci.org/getaroom/tzinfo-i18n.svg?branch=master)](https://travis-ci.org/getaroom/tzinfo-i18n)
 
 This gem extends TZInfo with I18n capabilities.
 
