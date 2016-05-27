@@ -1,5 +1,10 @@
 sudo: false
 language: ruby
+gemfile:
+  - gemfiles/tzinfo_0.3.gemfile
+  - gemfiles/tzinfo_1.0.0.gemfile
+  - gemfiles/tzinfo_1.1.0.gemfile
+  - gemfiles/tzinfo_1.2.0.gemfile
 rvm:
   - 1.9.3
   - 2.1.9

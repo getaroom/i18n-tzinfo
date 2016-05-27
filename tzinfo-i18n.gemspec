@@ -14,26 +14,21 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'http://www.github.com/getaroom/tzinfo-i18n'
   spec.license       = 'MIT'
 
-  # Prevent pushing this gem to RubyGems.org. To allow pushes either
-  # set the 'allowed_push_host' to allow pushing to a single host
-  # or delete this section to allow pushing to any host.
-  if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
-  else
-    raise 'RubyGems 2.0+ is required to protect against public gem pushes.'
+  spec.files         = `git ls-files -z`.split("\x0").reject do |f|
+    f.match(%r{^(test|spec|features)/})
   end
 
-  spec.files         = `git ls-files`.split($RS)
-  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
+  spec.bindir        = 'exe'
+  spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'i18n'
-  spec.add_dependency 'tzinfo', '~> 0.3'
-  spec.add_dependency 'tzinfo-data'
+  spec.add_dependency 'i18n', '~> 0.7.0'
+  spec.add_dependency 'tzinfo', '>= 0.3', '< 2'
 
-  spec.add_development_dependency 'bundler',  '~> 1.12'
-  spec.add_development_dependency 'rake',     '~> 10.0'
-  spec.add_development_dependency 'rspec',    '~> 3.0'
-  spec.add_development_dependency 'rubocop',  '~>0.35'
+  spec.add_development_dependency 'bundler',   '~> 1.12.1'
+  spec.add_development_dependency 'rake',      '~> 11.1.1'
+  spec.add_development_dependency 'rspec',     '~> 3.4.0'
+  spec.add_development_dependency 'rubocop',   '~> 0.40.0'
+  spec.add_development_dependency 'appraisal', '~> 2.1.0'
 end

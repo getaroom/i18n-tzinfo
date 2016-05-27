@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 module TZInfo
   RSpec.describe Country do
     describe '#translated_identifier' do

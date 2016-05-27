@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 module TZInfo
   RSpec.describe I18n do
     it 'has a version number' do

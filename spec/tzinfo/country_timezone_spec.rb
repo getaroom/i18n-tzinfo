@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 module TZInfo
   RSpec.describe CountryTimezone do
     before do
@@ -20,14 +18,14 @@ module TZInfo
       context 'x-piglatin' do
         let(:locale) { 'x-piglatin' }
 
-        it { is_expected.to eql 'Eastern-way (ost-may areas-way)' }
+        it { is_expected.to eql 'Eastern-way Ime-tay' }
         it { is_expected.not_to match(/translation missing/) }
       end
 
       context 'en' do
         let(:locale) { 'en' }
 
-        it { is_expected.to eql 'Eastern (most areas)' }
+        it { is_expected.to match(/Eastern (Time|\(most areas\))/) }
         it { is_expected.not_to match(/translation missing/) }
       end
     end
@@ -56,14 +54,14 @@ module TZInfo
       context 'x-piglatin' do
         let(:locale) { 'x-piglatin' }
 
-        it { is_expected.to eql 'Eastern-way (ost-may areas-way)' }
+        it { is_expected.to eql 'Eastern-way Ime-tay' }
         it { is_expected.not_to match(/translation missing/) }
       end
 
       context 'en' do
         let(:locale) { 'en' }
 
-        it { is_expected.to eql 'Eastern (most areas)' }
+        it { is_expected.to match(/Eastern (Time|\(most areas\))/) }
         it { is_expected.not_to match(/translation missing/) }
       end
     end

@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 module TZInfo
   RSpec.describe Timezone do
     before do
