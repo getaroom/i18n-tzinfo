@@ -1,0 +1,173 @@
+fr:
+    country_names:
+        'Aaland Islands': Åland
+        Albania: Albanie
+        Algeria: Algérie
+        Andorra: Andorre
+        Antarctica: Antarctique
+        'Antigua & Barbuda': Antigua-et-Barbuda
+        Argentina: Argentine
+        Armenia: Arménie
+        Australia: Australie
+        Austria: Autriche
+        Azerbaijan: Azerbaïdjan
+        Bahrain: Bahreïn
+        Barbados: Barbade
+        Belarus: Biélorussie
+        Belgium: Belgique
+        Bermuda: Bermudes
+        Bhutan: Bhoutan
+        Bolivia: Bolivie
+        'Bosnia & Herzegovina': 'Bosnie et Herzégovine'
+        'Bouvet Island': 'Île Bouvet'
+        Brazil: Brésil
+        'Britain (UK)': 'Royaume Uni'
+        'British Indian Ocean Territory': 'Territoire Britannique de l''Océan Indien'
+        Bulgaria: Bulgarie
+        Cambodia: Cambodge
+        Cameroon: Cameroun
+        'Cape Verde': Cap-Vert
+        'Caribbean Netherlands': 'Pays-Bas caribéens'
+        'Cayman Islands': 'Îles Caïmans'
+        'Central African Rep.': 'République Centrafricaine'
+        Chad: Tchad
+        Chile: Chili
+        China: Chine
+        'Christmas Island': 'Île Christmas'
+        Colombia: Colombie
+        Comoros: Comores
+        'Congo (Dem. Rep.)': 'République Démocratique du Congo'
+        'Congo (Rep.)': Congo
+        'Cook Islands': 'Îles Cook'
+        Croatia: Croatie
+        Curacao: Curaçao
+        Cyprus: Chypre
+        'Czech Republic': 'République tchèque'
+        'Côte d''Ivoire': 'Côte d´Ivoire'
+        Denmark: Danemark
+        Dominica: Dominique
+        'Dominican Republic': 'République Dominicaine'
+        'East Timor': 'Timor Oriental'
+        Ecuador: Équateur
+        Egypt: Égypte
+        'El Salvador': Salvador
+        'Equatorial Guinea': 'Guinée Équatoriale'
+        Estonia: Estonie
+        Ethiopia: Éthiopie
+        'Falkland Islands': 'Îles Malouines'
+        'Faroe Islands': 'Îles Féroé'
+        Fiji: Fidji
+        Finland: Finlande
+        'French Guiana': 'Guyane Française'
+        'French Polynesia': 'Polynésie Française'
+        Gambia: Gambie
+        Georgia: Géorgie
+        Germany: Allemagne
+        Greece: Grèce
+        Greenland: Groenland
+        Grenada: Grenade
+        Guinea: Guinée
+        Guinea-Bissau: Guinée-Bissau
+        Haiti: Haïti
+        Hungary: Hongrie
+        Iceland: Islande
+        India: Inde
+        Indonesia: Indonésie
+        Iraq: Irak
+        Ireland: Irlande
+        Israel: Israël
+        Italy: Italie
+        Jamaica: Jamaïque
+        Japan: Japon
+        Jordan: Jordanie
+        'Korea (South)': 'Corée du Sud'
+        Kuwait: Koweït
+        Kyrgyzstan: Kirghizistan
+        Latvia: Lettonie
+        Lebanon: Liban
+        Liberia: Libéria
+        Libya: Libye
+        Lithuania: Lituanie
+        Macau: Macao
+        Macedonia: Macédoine
+        Malaysia: Malaisie
+        Malta: Malte
+        'Marshall Islands': 'Îles Marshall'
+        Mauritania: Mauritanie
+        Mauritius: Maurice
+        Mexico: Mexique
+        Micronesia: 'États fédérés de Micronésie'
+        Moldova: Moldavie
+        Mongolia: Mongolie
+        Montenegro: Monténégro
+        Morocco: Maroc
+        'Myanmar (Burma)': Birmanie
+        Namibia: Namibie
+        Nepal: Népal
+        Netherlands: Pays-Bas
+        'New Caledonia': Nouvelle-Calédonie
+        'New Zealand': Nouvelle-Zélande
+        Niue: Nioué
+        'Norfolk Island': 'Île Norfolk'
+        'Northern Mariana Islands': 'Îles Mariannes du Nord'
+        Norway: Norvège
+        Palau: Palaos
+        Palestine: 'Territoire Palestinien Occupé'
+        'Papua New Guinea': Papouasie-Nouvelle-Guinée
+        Peru: Pérou
+        Pitcairn: 'Îles Pitcairn'
+        Poland: Pologne
+        'Puerto Rico': 'Porto Rico'
+        Romania: Roumanie
+        Russia: Russie
+        Réunion: 'La Réunion'
+        Reunion: 'La Réunion'
+        'Samoa (American)': 'Samoa Américaines'
+        'Samoa (western)': Samoa
+        'San Marino': Saint-Marin
+        'Sao Tome & Principe': 'Sao Tomé-et-Principe'
+        'Saudi Arabia': 'Arabie Saoudite'
+        Senegal: Sénégal
+        Serbia: Serbie
+        Singapore: Singapour
+        Slovakia: Slovaquie
+        Slovenia: Slovénie
+        'Solomon Islands': Salomon
+        Somalia: Somalie
+        'South Africa': 'Afrique du Sud'
+        'South Sudan': 'Soudan du Sud'
+        Spain: Espagne
+        'St Barthelemy': Saint-Barthélemy
+        'St Helena': 'Sainte-Hélène Ascension et Tristan da Cunha'
+        'St Kitts & Nevis': 'Saint Kitts and Nevis'
+        'St Lucia': Sainte-Lucie
+        'St Maarten (Dutch part)': 'Île de Saint-Martin'
+        'St Martin (French part)': Saint-Martin
+        'St Pierre & Miquelon': Saint-Pierre-Et-Miquelon
+        'St Vincent': Saint-Vincent-et-Les-Grenadines
+        Sudan: Soudan
+        Sweden: Suède
+        Switzerland: Suisse
+        Syria: Syrie
+        Taiwan: Taïwan
+        Tajikistan: Tadjikistan
+        Tanzania: Tanzanie
+        Thailand: Thaïlande
+        'Trinidad & Tobago': Trinité-et-Tobago
+        Tunisia: Tunisie
+        Turkey: Turquie
+        Turkmenistan: Turkménistan
+        'Turks & Caicos Is': 'Îles Turques-Et-Caïques'
+        'US minor outlying islands': 'Îles Mineures Éloignées des États-Unis'
+        Uganda: Ouganda
+        'United Arab Emirates': 'Émirats Arabes Unis'
+        'United States': États-Unis
+        Uzbekistan: Ouzbékistan
+        'Vatican City': Vatican
+        'Virgin Islands (UK)': 'Îles Vierges Britanniques'
+        'Virgin Islands (US)': 'Îles Vierges Américaines'
+        'Wallis & Futuna': Wallis-Et-Futuna
+        'Western Sahara': 'Sahara Occidental'
+        Yemen: Yémen
+        Zambia: Zambie
+        'Åland Islands': Åland
