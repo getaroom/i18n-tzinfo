@@ -5,7 +5,7 @@ require 'tzinfo/i18n/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'tzinfo-i18n'
-  spec.version       = TZInfo::I18n::VERSION
+  spec.version       = TZInfo::I18n::VERSION.dup
   spec.authors       = ['getaroom']
   spec.email         = ['devteam@roomvaluesteam.com']
 
