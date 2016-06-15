@@ -5,7 +5,7 @@ x-piglatin:
     Accra: Accra-way
     Acre: Acre-way
     Adak: Adak-way
-    Addis_Ababa: Addis-way_Ababa-way
+    Addis_Ababa: Addis-way Ababa-way
     Adelaide: Adelaide-way
     Aden: Aden-way
     Africa: Africa-way
@@ -46,7 +46,7 @@ x-piglatin:
     Azores: Azores-way
     Baghdad: Aghdad-bay
     Bahia: Ahia-bay
-    Bahia_Banderas: Ahia-bay_Anderas-bay
+    Bahia_Banderas: Ahia-bay Anderas-bay
     Bahrain: Ahrain-bay
     BajaNorte: AjaNorte-bay
     BajaSur: AjaSur-bay
@@ -68,7 +68,7 @@ x-piglatin:
     Bissau: Issau-bay
     Blanc-Sablon: Anc-blay-Ablon-say
     Blantyre: Antyre-blay
-    Boa_Vista: Oa-bay_Ista-vay
+    Boa_Vista: Oa-bay Ista-vay
     Bogota: Ogota-bay
     Boise: Oise-bay
     Bougainville: Ougainville-bay
@@ -76,23 +76,23 @@ x-piglatin:
     Brazil: Azil-bray
     Brazzaville: Azzaville-bray
     Brisbane: Isbane-bray
-    Broken_Hill: Oken-bray_Ill-hay
+    Broken_Hill: Oken-bray Ill-hay
     Brunei: Unei-bray
     Brussels: Ussels-bray
     Bucharest: Ucharest-bay
     Budapest: Udapest-bay
-    Buenos_Aires: Uenos-bay_Aires-way
+    Buenos_Aires: Uenos-bay Aires-way
     Bujumbura: Ujumbura-bay
     Busingen: Usingen-bay
     Cairo: Airo-cay
     Calcutta: Alcutta-cay
-    Cambridge_Bay: Ambridge-cay_Ay-bay
-    Campo_Grande: Ampo-cay_Ande-gray
+    Cambridge_Bay: Ambridge-cay Ay-bay
+    Campo_Grande: Ampo-cay Ande-gray
     Canada: Anada-cay
     Canary: Anary-cay
     Canberra: Anberra-cay
     Cancun: Ancun-cay
-    Cape_Verde: Ape-cay_Erde-vay
+    Cape_Verde: Ape-cay Erde-vay
     Caracas: Aracas-cay
     Casablanca: Asablanca-cay
     Casey: Asey-cay
@@ -121,9 +121,9 @@ x-piglatin:
     Conakry: Onakry-cay
     Continental: Ontinental-cay
     Copenhagen: Openhagen-cay
-    Coral_Harbour: Oral-cay_Arbour-hay
+    Coral_Harbour: Oral-cay Arbour-hay
     Cordoba: Ordoba-cay
-    Costa_Rica: Osta-cay_Ica-ray
+    Costa_Rica: Osta-cay Ica-ray
     Creston: Eston-cray
     Cuba: Uba-cay
     Cuiaba: Uiaba-cay
@@ -133,11 +133,11 @@ x-piglatin:
     Dakar: Akar-day
     Damascus: Amascus-day
     Danmarkshavn: Anmarkshavn-day
-    Dar_es_Salaam: Ar-day_es-way_Alaam-say
+    Dar_es_Salaam: Ar-day es-way Alaam-say
     Darwin: Arwin-day
     Davis: Avis-day
     Dawson: Awson-day
-    Dawson_Creek: Awson-day_Eek-cray
+    Dawson_Creek: Awson-day Eek-cray
     DeNoronha: ENoronha-day
     Denver: Enver-day
     Detroit: Etroit-day
@@ -161,8 +161,8 @@ x-piglatin:
     Egypt: Egypt-way
     Eire: Eire-way
     Eirunepe: Eirunepe-way
-    El_Aaiun: El-way_Aaiun-way
-    El_Salvador: El-way_Salvador
+    El_Aaiun: El-way Aaiun-way
+    El_Salvador: El-way Salvador
     Enderbury: Enderbury-way
     Ensenada: Ensenada-way
     Eucla: Eucla-way
@@ -171,8 +171,8 @@ x-piglatin:
     Fakaofo: Akaofo-fay
     Faroe: Aroe-fay
     Fiji: Iji-fay
-    Fort_Nelson: Ort-fay_Elson-nay
-    Fort_Wayne: Ort-fay_Ayne-way
+    Fort_Nelson: Ort-fay Elson-nay
+    Fort_Wayne: Ort-fay Ayne-way
     Fortaleza: Ortaleza-fay
     Freetown: Eetown-fray
     Funafuti: Unafuti-fay
@@ -183,10 +183,10 @@ x-piglatin:
     Gaza: Aza-gay
     General: Eneral-gay
     Gibraltar: Ibraltar-gay
-    Glace_Bay: Ace-glay_Ay-bay
+    Glace_Bay: Ace-glay Ay-bay
     Godthab: Odthab-gay
-    Goose_Bay: Oose-gay_Ay-bay
-    Grand_Turk: And-gray_Urk-tay
+    Goose_Bay: Oose-gay Ay-bay
+    Grand_Turk: And-gray Urk-tay
     Greenwich: Eenwich-gray
     Grenada: Enada-gray
     Guadalcanal: Uadalcanal-gay
@@ -204,9 +204,9 @@ x-piglatin:
     Hebron: Ebron-hay
     Helsinki: Elsinki-hay
     Hermosillo: Ermosillo-hay
-    Ho_Chi_Minh: O-hay_I-chay_Inh-may
+    Ho_Chi_Minh: O-hay I-chay Inh-may
     Hobart: Obart-hay
-    Hong_Kong: Ong-hay_Ong-kay
+    Hong_Kong: Ong-hay Ong-kay
     Hongkong: Ongkong-hay
     Honolulu: Onolulu-hay
     Hovd: Ovd-hay
@@ -219,12 +219,12 @@ x-piglatin:
     Iqaluit: Iqaluit-way
     Iran: Iran-way
     Irkutsk: Irkutsk-way
-    Isle_of_Man: Isle-way_of-way_An-may
+    Isle_of_Man: Isle-way of-way An-may
     Israel: Israel-way
     Istanbul: Istanbul-way
     Jakarta: Akarta-jay
     Jamaica: Amaica-jay
-    Jan_Mayen: An-jay_Ayen-may
+    Jan_Mayen: An-jay Ayen-may
     Japan: Apan-jay
     Jayapura: Ayapura-jay
     Jersey: Ersey-jay
@@ -251,17 +251,17 @@ x-piglatin:
     Kinshasa: Inshasa-kay
     Kiritimati: Iritimati-kay
     Knox: Ox-knay
-    Knox_IN: Ox-knay_IN
+    Knox_IN: Ox-knay IN
     Kolkata: Olkata-kay
     Kosrae: Osrae-kay
     Kralendijk: Alendijk-kray
     Krasnoyarsk: Asnoyarsk-kray
-    Kuala_Lumpur: Uala-kay_Umpur-lay
+    Kuala_Lumpur: Uala-kay Umpur-lay
     Kuching: Uching-kay
     Kuwait: Uwait-kay
     Kwajalein: Ajalein-kway
-    La_Paz: A-lay_Az-pay
-    La_Rioja: A-lay_Ioja-ray
+    La_Paz: A-lay Az-pay
+    La_Rioja: A-lay Ioja-ray
     Lagos: Agos-lay
     Libreville: Ibreville-lay
     Libya: Ibya-lay
@@ -272,10 +272,10 @@ x-piglatin:
     Lome: Ome-lay
     London: Ondon-lay
     Longyearbyen: Ongyearbyen-lay
-    Lord_Howe: Ord-lay_Owe-hay
-    Los_Angeles: Os-lay_Angeles-way
+    Lord_Howe: Ord-lay Owe-hay
+    Los_Angeles: Os-lay Angeles-way
     Louisville: Ouisville-lay
-    Lower_Princes: Ower-lay_Inces-pray
+    Lower_Princes: Ower-lay Inces-pray
     Luanda: Uanda-lay
     Lubumbashi: Ubumbashi-lay
     Lusaka: Usaka-lay
@@ -316,7 +316,7 @@ x-piglatin:
     Merida: Erida-may
     Metlakatla: Etlakatla-may
     Mexico: Exico-may
-    Mexico_City: Exico-may_Ity-cay
+    Mexico_City: Exico-may Ity-cay
     Michigan: Ichigan-may
     Midway: Idway-may
     Minsk: Insk-may
@@ -338,8 +338,8 @@ x-piglatin:
     Nauru: Auru-nay
     Navajo: Avajo-nay
     Ndjamena: Amena-ndjay
-    New_Salem: Ew-nay_Alem-say
-    New_York: Ew-nay_Ork-yay
+    New_Salem: Ew-nay Alem-say
+    New_York: Ew-nay Ork-yay
     Newfoundland: Ewfoundland-nay
     Niamey: Iamey-nay
     Nicosia: Icosia-nay
@@ -349,7 +349,7 @@ x-piglatin:
     Norfolk: Orfolk-nay
     Noronha: Oronha-nay
     North: Orth-nay
-    North_Dakota: Orth-nay_Ota-dakay
+    North_Dakota: Orth-nay Ota-dakay
     Nouakchott: Ouakchott-nay
     Noumea: Oumea-nay
     Novokuznetsk: Ovokuznetsk-nay
@@ -360,8 +360,8 @@ x-piglatin:
     Oslo: Oslo-way
     Ouagadougou: Ouagadougou-way
     Pacific: Acific-pay
-    Pacific-New: Acific-way_Ew-nay
-    Pago_Pago: Ago-pay_Ago-pay
+    Pacific-New: Acific-way Ew-nay
+    Pago_Pago: Ago-pay Ago-pay
     Palau: Alau-pay
     Palmer: Almer-pay
     Panama: Anama-pay
@@ -370,7 +370,7 @@ x-piglatin:
     Paris: Aris-pay
     Perth: Erth-pay
     Petersburg: Etersburg-pay
-    Phnom_Penh: Om-phnay_Enh-pay
+    Phnom_Penh: Om-phnay Enh-pay
     Phoenix: Oenix-phay
     Pitcairn: Itcairn-pay
     Podgorica: Odgorica-pay
@@ -379,21 +379,21 @@ x-piglatin:
     Ponape: Onape-pay
     Pontianak: Ontianak-pay
     Port-au-Prince: Ort-pay-au-way-Ince-pray
-    Port_Moresby: Ort-pay_Oresby-may
-    Port_of_Spain: Ort-pay_of-way_Ain-spay
+    Port_Moresby: Ort-pay Oresby-may
+    Port_of_Spain: Ort-pay of-way Ain-spay
     Porto-Novo: Orto-pay-Ovo-nay
-    Porto_Acre: Orto-pay_Acre-way
-    Porto_Velho: Orto-pay_Elho-vay
+    Porto_Acre: Orto-pay Acre-way
+    Porto_Velho: Orto-pay Elho-vay
     Portugal: Ortugal-pay
     Prague: Ague-pray
-    Puerto_Rico: Uerto-pay_Ico-ray
+    Puerto_Rico: Uerto-pay Ico-ray
     Pyongyang: Ongyang-pyay
     Qatar: Atar-qay
     Queensland: Ueensland-qay
     Qyzylorda: Orda-qyzylay
-    Rainy_River: Ainy-ray_Iver-ray
+    Rainy_River: Ainy-ray Iver-ray
     Rangoon: Angoon-ray
-    Rankin_Inlet: Ankin-ray_Inlet-way
+    Rankin_Inlet: Ankin-ray Inlet-way
     Rarotonga: Arotonga-ray
     Recife: Ecife-ray
     Regina: Egina-ray
@@ -401,8 +401,8 @@ x-piglatin:
     Reunion: Eunion-ray
     Reykjavik: Eykjavik-ray
     Riga: Iga-ray
-    Rio_Branco: Io-ray_Anco-bray
-    Rio_Gallegos: Io-ray_Allegos-gay
+    Rio_Branco: Io-ray Anco-bray
+    Rio_Gallegos: Io-ray Allegos-gay
     Riyadh: Iyadh-ray
     Rome: Ome-ray
     Rosario: Osario-ray
@@ -414,15 +414,15 @@ x-piglatin:
     Samara: Amara-say
     Samarkand: Amarkand-say
     Samoa: Amoa-say
-    San_Juan: An-say_Uan-jay
-    San_Luis: An-say_Uis-lay
-    San_Marino: An-say_Arino-may
-    Santa_Isabel: Anta-say_Isabel-way
+    San_Juan: An-say Uan-jay
+    San_Luis: An-say Uis-lay
+    San_Marino: An-say Arino-may
+    Santa_Isabel: Anta-say Isabel-way
     Santarem: Antarem-say
     Santiago: Antiago-say
-    Santo_Domingo: Anto-say_Omingo-day
-    Sao_Paulo: Ao-say_Aulo-pay
-    Sao_Tome: Ao-say_Ome-tay
+    Santo_Domingo: Anto-say Omingo-day
+    Sao_Paulo: Ao-say Aulo-pay
+    Sao_Tome: Ao-say Ome-tay
     Sarajevo: Arajevo-say
     Saskatchewan: Askatchewan-say
     Scoresbysund: Oresbysund-scay
@@ -435,19 +435,19 @@ x-piglatin:
     Skopje: Opje-skay
     Sofia: Ofia-say
     South: Outh-say
-    South_Georgia: Outh-say_Eorgia-gay
-    South_Pole: Outh-say_Ole-pay
+    South_Georgia: Outh-say Eorgia-gay
+    South_Pole: Outh-say Ole-pay
     Srednekolymsk: Ednekolymsk-sray
-    St_Barthelemy: Aint-say_Arthelemy-bay
-    St_Helena: Aint-say_Elena-hay
-    St_Johns: Aint-say_Ohns-jay
-    St_Kitts: Aint-say_Itts-kay
-    St_Lucia: Aint-say_Ucia-lay
-    St_Thomas: Aint-say_Omas-thay
-    St_Vincent: Aint-say_Incent-vay
+    St_Barthelemy: Aint-say Arthelemy-bay
+    St_Helena: Aint-say Elena-hay
+    St_Johns: Aint-say Ohns-jay
+    St_Kitts: Aint-say Itts-kay
+    St_Lucia: Aint-say Ucia-lay
+    St_Thomas: Aint-say Omas-thay
+    St_Vincent: Aint-say Incent-vay
     Stanley: Anley-stay
     Stockholm: Ockholm-stay
-    Swift_Current: Ift-sway_Urrent-cay
+    Swift_Current: Ift-sway Urrent-cay
     Sydney: Ey-sydnay
     Syowa: Owa-syay
     Tahiti: Ahiti-tay
@@ -459,12 +459,12 @@ x-piglatin:
     Tbilisi: Ilisi-tbay
     Tegucigalpa: Egucigalpa-tay
     Tehran: Ehran-tay
-    Tel_Aviv: El-tay_Aviv-way
-    Tell_City: Ell-tay_Ity-cay
+    Tel_Aviv: El-tay Aviv-way
+    Tell_City: Ell-tay Ity-cay
     Thimbu: Imbu-thay
     Thimphu: Imphu-thay
     Thule: Ule-thay
-    Thunder_Bay: Under-thay_Ay-bay
+    Thunder_Bay: Under-thay Ay-bay
     Tijuana: Ijuana-tay
     Timbuktu: Imbuktu-tay
     Tirane: Irane-tay
@@ -479,9 +479,9 @@ x-piglatin:
     Tucuman: Ucuman-tay
     Tunis: Unis-tay
     Turkey: Urkey-tay
-    Ujung_Pandang: Ujung-way_Andang-pay
+    Ujung_Pandang: Ujung-way Andang-pay
     Ulaanbaatar: Ulaanbaatar-way
-    Ulan_Bator: Ulan-way_Ator-bay
+    Ulan_Bator: Ulan-way Ator-bay
     Universal: Universal-way
     Urumqi: Urumqi-way
     Ushuaia: Ushuaia-way

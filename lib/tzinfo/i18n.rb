@@ -12,7 +12,7 @@ module TZInfo
   class Timezone
     def translated_identifier
       identifier.split('/').map do |v|
-        ::I18n.t(v, scope: 'iana_timezones', default: v)
+        ::I18n.t(v, scope: 'iana_timezones', default: v.tr('_', ' '))
       end.join('/')
     end
 

@@ -14,14 +14,14 @@ module TZInfo
       context 'x-piglatin' do
         let(:locale) { 'x-piglatin' }
 
-        it { is_expected.to eql('America-way/Ew-nay_Ork-yay') }
+        it { is_expected.to eql('America-way/Ew-nay Ork-yay') }
         it { is_expected.not_to match(/translation missing/) }
       end
 
       context 'en' do
         let(:locale) { 'en' }
 
-        it { is_expected.to eql('America/New_York') }
+        it { is_expected.to eql('America/New York') }
         it { is_expected.not_to match(/translation missing/) }
       end
     end
