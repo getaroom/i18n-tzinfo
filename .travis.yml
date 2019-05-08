@@ -5,9 +5,8 @@ gemfile:
   - gemfiles/tzinfo_1.0.0.gemfile
   - gemfiles/tzinfo_1.1.0.gemfile
   - gemfiles/tzinfo_1.2.0.gemfile
+  - gemfiles/tzinfo_2.0.0.gemfile
 rvm:
-  - 1.9.3
-  - 2.1.9
-  - 2.2.5
-  - 2.3.0
-before_install: gem install bundler -v 1.12.1
+  - 2.4
+  - 2.5
+  - 2.6

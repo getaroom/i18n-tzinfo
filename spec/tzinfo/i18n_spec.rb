@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module TZInfo
   RSpec.describe I18n do
     it 'has a version number' do
