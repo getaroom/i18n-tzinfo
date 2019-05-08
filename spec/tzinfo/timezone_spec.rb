@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 module TZInfo
   RSpec.describe Timezone do
     before do
-      ::I18n.available_locales = [:en, :'x-piglatin']
+      ::I18n.available_locales = %i[en x-piglatin]
       ::I18n.locale = locale
     end
 

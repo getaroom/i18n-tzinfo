@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'tzinfo'
 require 'tzinfo/i18n/version'
 require 'i18n'
@@ -26,7 +28,7 @@ module TZInfo
         parts[0]
       else
         if skip_first_part
-          result = ''
+          result = +''
         else
           result = parts[0] + ' - '
         end
